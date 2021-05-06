@@ -10,6 +10,8 @@ Mr. Bourke also published an [article on the topic.](https://www.mrdbourke.com/m
   Basic CNN           | 7-8 | 7-8 | 35-41 | 5 |
   Transfer learning   | 20-21 | 20-21 | 59-66 | 7 |
   tensorflow_macos benchmark| 23-24 | 20-21 | 20-21 | 9 |
+  
+  *Google Colab uses pure TensorFlow rather than tensorflow_macos
 
 
 
